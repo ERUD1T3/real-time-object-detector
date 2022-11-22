@@ -1,3 +1,4 @@
+# all utility functions
 from __future__ import division
 
 import torch 
